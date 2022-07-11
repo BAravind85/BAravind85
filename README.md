@@ -1,4 +1,4 @@
-<img align="center" alt="Master" height='100%'  src="https://www.viewsonic.com/library/wp-content/uploads/2020/04/LB0130-What-Is-Telecommuting.png">
+<img align="center" alt="Master" height='100%'  src="https://2vnn161cxy8m9oala1tqrvwl-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/covid-recovery22-removebg-preview.png">
 <h1 align="center">Hi 👋, I'm B.Aravind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
