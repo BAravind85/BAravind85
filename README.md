@@ -1,4 +1,4 @@
-
+<img align="center" alt="Master" height='95%' src="https://www.fullstacktechnology.com/wp-content/uploads/2020/05/webdes1-1.png">
 <h1 align="center">Hi 👋, I'm B.Aravind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
