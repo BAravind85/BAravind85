@@ -1,4 +1,4 @@
-<img align="center" alt="Master" height='100%'  src="https://2vnn161cxy8m9oala1tqrvwl-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/covid-recovery22-removebg-preview.png">
+<img align="center" alt="Master" height='100%'  src="https://res.cloudinary.com/practicaldev/image/fetch/s--H9vjyuY1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o1jvdx3ihkduk9u0a1k4.png">
 <h1 align="center">Hi 👋, I'm B.Aravind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
