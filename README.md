@@ -1,7 +1,7 @@
 <img align="center" alt="Master" height='100%'  src="https://res.cloudinary.com/practicaldev/image/fetch/s--H9vjyuY1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o1jvdx3ihkduk9u0a1k4.png">
 <h1 align="center">Hi 👋, I'm B.Aravind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = 'right' alt='Coading' width = '300' src = 'https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47m0r97e1ir3u1clyqrn612tvz4zr3ruaryp35lbli&rid=giphy.gif&ct=g'>
+<img align = 'right' alt='Coading' width = '300' src = 'https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47w9p2sltq0rcq6qw9g5eo8ex2itim50ctabqkysa3&rid=giphy.gif&ct=g'>
 
 - 🔭 I’m currently working on **Backend Projects in Function Up**
 - 🌱 I’m currently learning **MERN Stack**
