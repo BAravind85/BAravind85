@@ -1,4 +1,4 @@
-<img align="center" alt="Master" height='100%' width='2' src="https://www.theproche.com/wp-content/uploads/2021/04/hacking-illustration.png">
+<img align="center" alt="Master" height='100%' width='1000' src="https://www.theproche.com/wp-content/uploads/2021/04/hacking-illustration.png">
 <h1 align="center">Hi 👋, I'm B.Aravind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
