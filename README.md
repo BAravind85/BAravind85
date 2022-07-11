@@ -1,4 +1,4 @@
-<img align="center" alt="Master" height='100%' src="https://www.accuwebtech.com/images/home-banner.png">
+<img align="center" alt="Master" height='50%' src="https://www.accuwebtech.com/images/home-banner.png">
 <h1 align="center">Hi 👋, I'm B.Aravind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
