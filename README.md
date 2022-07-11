@@ -1,4 +1,4 @@
-<img align="center" alt="Master" height='100%'  src="https://cdni.iconscout.com/illustration/premium/thumb/developer-doing-programming-opening-multi-working-tabs-on-the-desktop-2381447-1997255.png">
+<img align="center" alt="Master" height='100%'  src="https://www.viewsonic.com/library/wp-content/uploads/2020/04/LB0130-What-Is-Telecommuting.png">
 <h1 align="center">Hi 👋, I'm B.Aravind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
