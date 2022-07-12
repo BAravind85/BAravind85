@@ -1,4 +1,4 @@
-<img align="center" alt="Master" height='80%' width='100%'  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
+<img align="center" alt="Master" height='50%' width='100%'  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
 <!--<img align="center" alt="Master" height='100%'  src="https://res.cloudinary.com/practicaldev/image/fetch/s--H9vjyuY1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o1jvdx3ihkduk9u0a1k4.png">-->
 <h1 align="center">Hi 👋, I'm B.Aravind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
