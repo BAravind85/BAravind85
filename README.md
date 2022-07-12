@@ -1,4 +1,5 @@
-<img align="center" alt="Master" height='100%'  src="https://res.cloudinary.com/practicaldev/image/fetch/s--H9vjyuY1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o1jvdx3ihkduk9u0a1k4.png">
+<img align="center" alt="Master" height='100%'  src="https://www.careerguide.com/career/online-career-counselling/8-ways-to-know-web-development-is-a-good-career-for-you">
+<!--<img align="center" alt="Master" height='100%'  src="https://res.cloudinary.com/practicaldev/image/fetch/s--H9vjyuY1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o1jvdx3ihkduk9u0a1k4.png">-->
 <h1 align="center">Hi 👋, I'm B.Aravind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = 'right' alt='Coading' width = '350' src = 'https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif'>
